@@ -1,4 +1,7 @@
-<h1 align="center">Hi, guys! <img src="https://github.com/angeldavidhf/angeldavidhf/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<h1 align="center">
+  Hello world! <img src="https://raw.githubusercontent.com/angeldavidhf/angeldavidhf/main/sprites/snorlax.gif" width="48px" alt="👋"><br>
+  <img src="https://komarev.com/ghpvc/?username=angeldavidhf&color=9E82F8"/>
+</h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
@@ -18,37 +21,40 @@
 </p>
 
 ### Programming Languages
-[![Javascript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Typescript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
-[![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net)
-[![Golang](https://skillicons.dev/icons?i=go)](https://golang.org)
-[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ### Frontend Development
-[![ReactJS](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
-[![VueJS](https://skillicons.dev/icons?i=vuejs)](https://vuejs.org/)
-[![Redux](https://skillicons.dev/icons?i=redux)](https://redux.js.org)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 ### Backend Development
-[![NodeJs](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
-[![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com)
-[![Graphql](https://skillicons.dev/icons?i=graphql)](https://graphql.org)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### Mobile App Development
-[![React Native](https://skillicons.dev/icons?i=react)](https://reactnative.dev/)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 
 ### Databases
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
-[![Postgresql](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org)
-[![Oracle](https://skillicons.dev/icons?i=oracle)](https://www.oracle.com/)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Frameworks
-[![Laravel](https://skillicons.dev/icons?i=laravel)](https://laravel.com/)
-[![Codeigniter](https://skillicons.dev/icons?i=codeigniter)](https://codeigniter.com)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
 
 ### Other
-[![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 ---
 
