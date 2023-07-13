@@ -1,6 +1,6 @@
 <h1 align="center">
   ¡Hello world! <img src="https://raw.githubusercontent.com/angeldavidhf/angeldavidhf/main/sprites/snorlax.gif" width="48px" alt="👋"><br>
-  <img src="https://komarev.com/ghpvc/?username=angeldavidhf&color=9E82F8"/>
+  <img src="https://komarev.com/ghpvc/?username=angeldavidhf&color=f2cc60"/>
 </h1>
 
 <p align="center">
@@ -23,13 +23,13 @@
 <h2 align="center">☕ Statistics</h2>
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=angeldavidhf&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=angeldavidhf&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=angeldavidhf&theme=material-palenight&hide_border=true&background=FFFFFF00">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=angeldavidhf&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=angeldavidhf&layout=compact&hide_border=true&theme=gruvbox&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=angeldavidhf&theme=gruvbox&hide_border=true&background=FFFFFF00">
 </p>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=angeldavidhf&theme=tokyonight"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=angeldavidhf&theme=gruvbox"/>
 </p>
 
 
@@ -69,7 +69,7 @@
 
 ### Other
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 ---
